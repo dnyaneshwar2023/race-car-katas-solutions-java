@@ -1,0 +1,6 @@
+This is a test file.
+PAGE_BREAK
+The intention is to use it for a manual test of HtmlConverter.
+The following lines have some characters that need escaping
+PAGE_BREAK
+    "This is quoted" & <this has brackets>
